@@ -1,0 +1,4 @@
+title: Rivo
+description: An expense tracker that reads your bank SMS and never sends them anywhere.
+theme: jekyll-theme-minimal
+show_downloads: false
