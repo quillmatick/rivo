@@ -12,6 +12,34 @@ your phone. No account, no sign-up, no server.
 
 ---
 
+## Download
+
+Rivo is not on the Play Store yet. Until it is, you can install it directly.
+
+**[Download the APK for v4.1.0 →](https://github.com/quillmatick/rivo/releases/download/v4.1.0/rivo-4.1.0-release.apk)**
+
+Older versions stay available on the [releases page](https://github.com/quillmatick/rivo/releases).
+Each release is signed with the same key, so a newer version installs over an
+older one and keeps your history, rules and settings.
+
+<details>
+<summary>How to install an APK on Android</summary>
+
+1. Open the link above on your phone and download the file.
+2. Android will warn you that the file came from outside the Play Store. This
+   is expected — tap **Settings**, then **Allow from this source**.
+3. Open the downloaded file and tap **Install**.
+
+You may need to enable **Install unknown apps** for whichever app you used to
+open the download (Chrome, Files, or your browser). It is a per-app setting
+and you can turn it back off afterwards.
+
+</details>
+
+**Requires Android 8.0 (API 26) or newer.** The APK is 26.6 MB.
+
+---
+
 ## Privacy in brief
 
 - **No internet permission.** The app cannot open a network connection — you
