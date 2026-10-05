@@ -16,7 +16,7 @@ your phone. No account, no sign-up, no server.
 
 Rivo is not on the Play Store yet. Until it is, you can install it directly.
 
-**[Download the APK for v4.1.0 →](https://github.com/quillmatick/rivo/releases/download/v4.1.0/rivo-4.1.0-release.apk)**
+**[Download the APK for v5.3.1 →](https://github.com/quillmatick/rivo/releases/download/v5.3.1/Rivo-v5.3.1.apk)**
 
 Older versions stay available on the [releases page](https://github.com/quillmatick/rivo/releases).
 Each release is signed with the same key, so a newer version installs over an
@@ -36,7 +36,7 @@ and you can turn it back off afterwards.
 
 </details>
 
-**Requires Android 8.0 (API 26) or newer.** The APK is 26.6 MB.
+**Requires Android 8.0 (API 26) or newer.** The APK is 27.0 MB.
 
 ---
 
