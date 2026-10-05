@@ -25,14 +25,16 @@ older one and keeps your history, rules and settings.
 <details>
 <summary>How to install an APK on Android</summary>
 
-1. Open the link above on your phone and download the file.
-2. Android will warn you that the file came from outside the Play Store. This
-   is expected — tap **Settings**, then **Allow from this source**.
-3. Open the downloaded file and tap **Install**.
+<ol>
+<li>Open the link above on your phone and download the file.</li>
+<li>Android will warn you that the file came from outside the Play Store. This
+is expected — tap <b>Settings</b>, then <b>Allow from this source</b>.</li>
+<li>Open the downloaded file and tap <b>Install</b>.</li>
+</ol>
 
-You may need to enable **Install unknown apps** for whichever app you used to
-open the download (Chrome, Files, or your browser). It is a per-app setting
-and you can turn it back off afterwards.
+<p>You may need to enable <b>Install unknown apps</b> for whichever app you used
+to open the download (Chrome, Files, or your browser). It is a per-app setting
+and you can turn it back off afterwards.</p>
 
 </details>
 
