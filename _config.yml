@@ -1,4 +1,4 @@
 title: Rivo
-description: An expense tracker that reads your bank SMS and never sends them anywhere.
+description: Private expense tracking and budgeting for Android, with optional on-device bank SMS and encrypted backup.
 theme: jekyll-theme-minimal
 show_downloads: false
