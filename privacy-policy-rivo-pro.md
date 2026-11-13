@@ -1,32 +1,32 @@
-# Rivo for Google Play — Privacy Policy
+# Rivo Money — Privacy Policy
 
-**Last updated: 12 November 2026**
+**Last updated: 13 November 2026**
 
-This policy applies to the Google Play edition of Rivo for Android,
+This policy applies to the Google Play edition of Rivo Money for Android,
 application ID `com.quillmatick.rivo`. It does not apply to the separate
 legacy Android app with application ID `com.rivo`, which has its own policy.
 
-Rivo is an expense tracker for Android. It reads the transaction SMS your bank
-already sends you and turns them into a spending record.
+Rivo Money is an expense tracker for Android. It reads the transaction SMS
+your bank already sends you and turns them into a spending record.
 
-This policy describes what Rivo does with your information. It is short because
-Rivo does very little with it.
+This policy describes what Rivo Money does with your information. It is short
+because Rivo Money does very little with it.
 
 ---
 
 ## The short version
 
 Your SMS and financial records are processed and stored on your phone. Rivo
-does not upload them or sync them to a Rivo server. The app requests internet
-access for Google Play Billing to load subscription options and manage
+Money does not upload them or sync them to a Rivo Money server. The app requests
+internet access for Google Play Billing to load subscription options and manage
 purchases. Google Play handles payment and subscription processing; Rivo does
 not receive your card details.
 
-There is no Rivo account, no Rivo server, and no sign-in.
+There is no Rivo Money account, no Rivo Money server, and no sign-in.
 
 ---
 
-## What Rivo reads
+## What Rivo Money reads
 
 ### Transaction SMS
 
@@ -52,7 +52,7 @@ was debited or credited.
 Transactions you add by hand, budgets, savings goals, groups and shared
 expenses, cards you add, your display name, and any notes you write.
 
-### What Rivo does not collect
+### What Rivo Money does not collect
 
 Rivo does not collect or store: your contacts, your location, your photos, your
 device identifiers, advertising IDs, or any usage analytics. There is no
