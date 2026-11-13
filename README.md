@@ -1,53 +1,24 @@
-<img src="icon.png" width="96" alt="Rivo">
+<img src="icon.png" width="96" alt="Rivo" />
 
 # Rivo
 
-**An expense tracker that reads the bank SMS you already get — and never sends
-them anywhere.**
+**Private expense tracking and budgeting for Android.**
 
-Rivo turns your bank's transaction alerts into a spending record, entirely on
-your phone. No account, no sign-up, no server.
+Track income and spending, set budgets, and keep your financial history on your device. Add transactions manually or, with your permission, use supported bank and payment SMS alerts.
 
-**[Privacy policy](privacy-policy.md)**
+## Google Play edition
 
----
+- Android package: `com.quillmatick.rivo`
+- Prepared release: version `1.0.7` (version code `27`)
+- Status: public Play release is being prepared. This build is not yet available from a public Play listing; this page will link to Play once the listing is live.
+- [Google Play edition privacy policy](https://quillmatick.github.io/rivo/privacy-policy-rivo-pro)
 
-## Download
+SMS parsing and financial records stay on your device. Rivo uses internet access for Google Play Billing; it does not upload SMS or transaction records to a Rivo server. Encrypted backup is controlled by you. Rivo has no account, ads, or analytics.
 
-Rivo is not on the Play Store yet. Until it is, you can install it directly.
+## Legacy standalone edition (`com.rivo`)
 
-**[Download the APK for v5.3.1 →](https://github.com/quillmatick/rivo/releases/download/v5.3.1/Rivo-v5.3.1.apk)**
+The APK below is an earlier, separate Rivo app. It is not the Google Play edition and cannot update or replace `com.quillmatick.rivo`. Its offline behavior and policy apply only to that legacy package.
 
-Older versions stay available on the [releases page](https://github.com/quillmatick/rivo/releases).
-Each release is signed with the same key, so a newer version installs over an
-older one and keeps your history, rules and settings.
+**[Download legacy APK v5.3.1](https://github.com/quillmatick/rivo/releases/download/v5.3.1/Rivo-v5.3.1.apk)** · [Legacy privacy policy](https://quillmatick.github.io/rivo/privacy-policy)
 
-<details>
-<summary>How to install an APK on Android</summary>
-
-<ol>
-<li>Open the link above on your phone and download the file.</li>
-<li>Android will warn you that the file came from outside the Play Store. This
-is expected — tap <b>Settings</b>, then <b>Allow from this source</b>.</li>
-<li>Open the downloaded file and tap <b>Install</b>.</li>
-</ol>
-
-<p>You may need to enable <b>Install unknown apps</b> for whichever app you used
-to open the download (Chrome, Files, or your browser). It is a per-app setting
-and you can turn it back off afterwards.</p>
-
-</details>
-
-**Requires Android 8.0 (API 26) or newer.** The APK is 27.0 MB.
-
----
-
-## Privacy in brief
-
-- **No internet permission.** The app cannot open a network connection — you
-  can confirm this in Android's app-info screen.
-- **Your data stays on your phone,** in an encrypted database whose key is held
-  in the Android Keystore.
-- **No account, no analytics, no ads, no trackers.**
-- **Subscriptions are handled by Google Play.** Rivo never sees your payment
-  details.
+Older legacy APKs remain on the [releases page](https://github.com/quillmatick/rivo/releases). The legacy APK requires Android 8.0 (API 26) or newer. Install only if you specifically need that older app; use Google Play for the new edition after its public listing is available.
